@@ -8,21 +8,21 @@
       "phone": "556781551239"
     },
     {
-      "photo": "src/assets/img/homem-oculos.png",
+      "photo": "public/homem-oculos.png",
       "name": "Rodrigo Mota",
       "role": "Front-end",
       "admission": "2022-01-01T00:00:00.000Z",
       "phone": "555555555555"
     },
     {
-      "photo": "src/assets/img/mulher.png",
+      "photo": "public/mulher.png",
       "name": "Giovana L. Arruda",
       "role": "Back-end",
       "admission": "2022-01-01T00:00:00.000Z",
       "phone": "555555555555"
     },
     {
-      "photo": "src/assets/img/rapaz.png",
+      "photo": "public/rapaz.png",
       "name": "Luciano Triumfo",
       "role": "Designer",
       "admission": "2022-01-01T00:00:00.000Z",
