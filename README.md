@@ -43,10 +43,10 @@ $ yarn json-server --watch db/db.json
 
 ## ✔️ Tools used
 
-<a href="https://developer.mozilla.org/pt-BR/docs/Web/CSS"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="css" width="40" height="40"/> </a>
-<a href="https://www.figma.com/files/recent?fuid=1054783839438239746"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" alt="figma" width="40" height="40"/> </a>
+<a href="https://axios-http.com/assets/logo.svg"> <img src="https://axios-http.com/assets/logo.svg" alt="axios" width="40" height="40"/> </a>
+<a href="https://developer.mozilla.org/pt-BR/docs/Web/CSS"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="css" width="40" height="40"/> </a> <a href="https://www.figma.com/files/recent?fuid=1054783839438239746"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" alt="figma" width="40" height="40"/> </a>
 <a href="https://git-scm.com/"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="git" width="40" height="40"/> </a> <a href="https://nodejs.org/en/"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt="node" width="40" height="40"/> </a>
-<a href="https://pt-br.reactjs.org/"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="react" width="40" height="40"/> </a>  <a href="https://www.typescriptlang.org/"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> <a href="https://yarnpkg.com/"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/yarn/yarn-original.svg" alt="yarn" width="40" height="40"/> </a> 
+<a href="https://pt-br.reactjs.org/"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="react" width="40" height="40"/> </a>  <a href="https://styled-components.com/"> <img src="https://styled-components.com/logo.png" alt="styled-components" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> <a href="https://yarnpkg.com/"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/yarn/yarn-original.svg" alt="yarn" width="40" height="40"/> </a> 
 
 
 ## 👩 About me
